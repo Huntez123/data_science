@@ -1,0 +1,23 @@
+Weather,Road Condition,Traffic Volume,Driver Age,Vehicle Age,Speed,Time of Day,Accident Severity
+Foggy,Wet,33,25,11,72,Day,2
+Snowy,Wet,56,66,19,66,Day,2
+Sunny,Dry,86,65,10,83,Night,2
+Snowy,Wet,63,36,12,63,Day,1
+Sunny,Icy,45,29,14,44,Day,2
+Rainy,Icy,90,44,10,108,Night,3
+Snowy,Dry,69,45,12,56,Day,3
+Sunny,Wet,33,56,4,106,Day,1
+Rainy,Wet,50,77,11,110,Night,3
+Foggy,Icy,53,54,1,108,Day,1
+Foggy,Icy,78,47,2,50,Day,3
+Rainy,Icy,24,72,9,72,Night,1
+Rainy,Dry,24,32,13,71,Day,2
+Sunny,Icy,79,28,12,75,Day,2
+Sunny,Icy,59,33,13,91,Night,2
+Rainy,Dry,75,74,16,97,Day,3
+Sunny,Wet,82,41,14,89,Day,2
+Rainy,Wet,86,48,12,81,Night,2
+Sunny,Wet,25,36,14,78,Day,2
+Snowy,Icy,69,23,11,40,Day,2
+Snowy,Wet,24,61,18,88,Day,1
+Snowy,Wet,96,50,17,98,Day,2
